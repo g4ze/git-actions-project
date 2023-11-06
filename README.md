@@ -1,1 +1,2 @@
 # github-actions-example
+This project involves an integration pipeline wherein we use github push triggers to start individual github actions in form of jobs to impmlement an image creation of the project using the docker file and pushing it to the dockerhub, which inturns hets the image file implemeted into the private/public dockerhub repository.
